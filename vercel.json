@@ -2,6 +2,6 @@
 {
     "cleanUrls": true,
     "redirects":[
-      { "source": "/", "destination": "https://github.com/prachiguptadevl" }
+      { "source": "/", "destination": "https://github.com/prachiguptadev" }
     ]
   }
